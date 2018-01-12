@@ -2,7 +2,7 @@
 - 完成イメージ
 
 ### ▪️PC
-![PC](reacttasks/img/pc.gif "1")
+![PC](img/pc.gif "1")
 
 ### ▪️SP
-![SP](reacttasks/img/pc.gif "1")
+![SP](img/pc.gif "1")
