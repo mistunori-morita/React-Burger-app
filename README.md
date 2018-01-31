@@ -5,7 +5,7 @@
 ![PC](img/pc.gif "1")
 
 ### ▪️SP
-![SP](img/pc.gif "1")
+![SP](img/sp.gif "1")
 
 
 ## firebase連携
